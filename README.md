@@ -25,5 +25,5 @@ A fun **single-player Ping Pong** game built with **HTML**, **CSS**, and **JavaS
 4. **Score**: The score increases the longer you can keep the ball in play without it getting past the paddles.
 5. **Game Over**: The game will reset if the ball passes through either of the paddles.
 
-## Project Structure
+
 
